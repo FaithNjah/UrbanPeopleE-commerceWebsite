@@ -1,0 +1,105 @@
+.Second-div{
+    display: flex;
+    margin-left: 20px;
+  
+}
+
+.children{
+  margin: 20px;
+}
+
+.children img{
+  height: 400px;
+  width: 250px;
+}
+
+.children p{
+  font-weight: 600;
+}
+
+.Third-div{
+  text-align: center;
+}
+
+.Fourth-div{
+margin: 100px;
+}
+
+.Fourth-div img{
+  
+  height: 400px;
+  width: 50px;
+}
+
+#owl-demo{
+  position: relative;
+  
+}
+
+.card-group div{
+  border: 0px !important;
+  text-align: center;
+}
+
+.card-margin {
+  margin-right: 60px;
+  margin-left: 60px;
+  
+}
+
+.my-card-image {
+  width: 100%; 
+  height: auto; 
+  max-height: 400px; 
+}
+
+.card-title{
+  color: rgb(173, 185, 195) !important;
+} 
+
+.Sixth-div{
+  display: flex;
+  align-items: center;
+   margin-top: 100px;
+  
+}
+
+.Sixth-div-row1,.Sixth-div-row2{
+ margin-left: 110px;
+}
+
+.Sixth-div-row6, .Sixth-div-row7{
+  margin-right: 110px;
+}
+
+.Sixth-div-row3,.Sixth-div-row5{
+margin-left: 70px;
+}
+
+.Sixth-div .img1,.img3,.img4,.img6{
+ height: auto; 
+ width: 350px;
+ margin: 30px;
+}
+
+.Sixth-div .img2,.img5{
+  height: auto; 
+  width: 350px;
+}
+
+.Sixth-div-row4 {
+  font-size: 25px;
+  text-align: center;
+  margin: 50px;
+  align-items: center;
+}
+.Sixth-div-row4 p {
+  margin: 20px;
+  margin-top: 70px;
+  margin-bottom: 70px;
+}
+
+.Sixth-div-row4 button{
+  background-color: black;
+  color: white;
+}

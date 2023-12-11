@@ -1,0 +1,45 @@
+
+
+.First-Nav-bar{
+    background-color: black;
+  }
+  
+  .First-Nav-bar .navbar-brand{
+    font-size: 15px;
+  }
+  
+  .First-Nav-bar a {
+      color: white !important;
+  }
+  
+  .first-Nav-bar-ul{
+      margin-left: auto;
+    }
+  
+  .second-nav-bar{
+    background-color: white;
+    height: 90px;
+    position: sticky !important;
+    top: 0;
+    width: 100%;
+    z-index: 2; 
+  }
+  
+  .second-nav-bar .navbar-brand{
+    margin-left:100px;
+  }
+  
+  .Fifth-div{
+    text-align: center;
+  }
+  
+  
+  .second-nav-bar .navbar-brand {
+    font-weight: 1000;
+    font-size:22px;
+  }
+  
+  .second-nav-bar .nav-link {
+  color: black !important;
+  margin-left: 90px;
+  }

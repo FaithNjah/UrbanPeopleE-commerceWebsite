@@ -1,0 +1,102 @@
+.catalog-first-div ul{
+    display: flex;
+    justify-content: flex-start;
+    list-style: none;
+  }
+
+  .catalog-first-div li{
+    margin: 5px;
+  }
+
+  .catalog-second-div{
+    display: flex;
+    justify-content: space-evenly;
+  }
+
+  .collections-list-div ul{
+    list-style: none;
+  }
+
+  .collections-list-div li{
+    margin: 10px;
+  }
+
+  .collections-list-div .h6{
+    font-weight:10px ;
+    margin-bottom: 20px;
+  }
+
+  .collection-image-div {
+    margin-top: 50px;
+  }
+
+
+  .collection-product-item {
+    display: flex;
+  }
+
+  .collection-product-item img{
+    height: 150px;
+    width: 150px;
+    margin-right: 15px;
+    margin-bottom: 25px;
+  }
+
+  .collection-product-item .text{
+    padding-top: 15px;
+  }
+
+  .collection-product-item button{
+    background-color: black;
+    color: white;
+    margin-top: 5px;
+  }
+
+
+  .product-div-list{
+    display: flex;
+    justify-content: flex-start;
+    margin-bottom: 20px;
+  }
+
+  .product-div-list button{
+    margin: 5px;
+    background-color: rgb(228, 228, 238);
+    border: 0px;
+  }
+
+  .product-div-list .totus{
+    background-color: black;
+    color: white;
+  }
+
+  .product-div-options{
+    display: flex;
+    justify-content: space-between;
+    height: 80px;
+    width: 100%;
+    border: 2px solid gainsboro;
+    margin-bottom: 20px;
+  }
+
+  .card-group div{
+    border: 0px !important;
+    text-align: center;
+  }
+  
+  .card-margin {
+    margin-right: 60px;
+    margin-left: 60px;
+    
+  }
+  
+  .my-card-image {
+    width: 100%; 
+    height: auto; 
+    max-height: 400px; 
+  }
+  
+  .card-title{
+    color: rgb(173, 185, 195) !important;
+  } 
+  

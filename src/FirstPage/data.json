@@ -1,0 +1,33 @@
+[
+    {
+        "id": 1,
+        "title": "Silky Mixed Print Dress",
+        "description": "This is the first item's description.",
+        "img": "https://res.cloudinary.com/ilove2support/image/upload/v1694977046/i_iawrez.png"
+    },
+    {
+        "id": 2,
+        "title": "Second Item",
+        "description": "This is the second item's description.",
+        "img" : "https://res.cloudinary.com/ilove2support/image/upload/v1694977045/3_xiqtiq.png"
+    },
+
+    {
+        "id": 3,
+        "title": "Third Item",
+        "description": "This is the third item's description.",
+        "img" : "https://res.cloudinary.com/ilove2support/image/upload/v1694977045/4_rhkh29.png"
+    },
+    {
+        "id": 4,
+        "title": "Third Item",
+        "description": "This is the third item's description.",
+        "img" : "https://res.cloudinary.com/ilove2support/image/upload/v1694977045/2_ffaea9.png"
+    },
+    {
+        "id": 5,
+        "title": "Third Item",
+        "description": "This is the third item's description.",
+        "img" : "https://res.cloudinary.com/ilove2support/image/upload/v1694977045/5_ov76l3.png"
+    }
+]
